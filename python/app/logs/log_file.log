@@ -1,0 +1,291 @@
+INFO:logger:
+---------------------
+
+
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- users  ---- foobartee
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:---- users  ---- foobar
+INFO:logger:---- users  ---- %foobar%
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.0.3:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- users  ---- foobartee
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:---- users  ---- foobar
+INFO:logger:---- users  ---- %foobar%
+INFO:logger:('foobartee', 'foobar', 'foo')
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 973-899-014
+INFO:logger:
+---------------------
+
+
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- users  ---- foobartee
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:---- users  ---- foobar
+INFO:logger:---- users  ---- %foobar%
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.0.3:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------------------
+
+
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- users  ---- foobartee
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:---- users  ---- foobar
+INFO:logger:---- users  ---- %foobar%
+INFO:logger:('foobartee', 'foobar', 'foo')
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 973-899-014
+INFO:werkzeug:172.24.0.1 - - [14/Nov/2022 18:31:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.24.0.1 - - [14/Nov/2022 18:31:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------AULA------------
+
+
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- users  ---- foobartee
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:---- users  ---- foobar
+INFO:logger:---- users  ---- %foobar%
+INFO:logger:('foobartee', 'foobar', 'foo')
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 973-899-014
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------AULA------------
+
+
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- users  ---- foobartee
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:---- users  ---- foobar
+INFO:logger:---- users  ---- %foobar%
+INFO:logger:('foobartee', 'foobar', 'foo')
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 973-899-014
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------AULA------------
+
+
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- users  ---- foobartee
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:---- users  ---- foobar
+INFO:logger:---- users  ---- %foobar%
+INFO:logger:('foobartee', 'foobar', 'foo')
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 973-899-014
+INFO:logger:
+ DEMO 
+
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- messages ----
+INFO:logger:(1, 'Vulnerable', 'Hi! I wrote this message using Vulnerable Form.')
+INFO:logger:(2, 'Correct', 'OMG! This form is so correct!!!')
+INFO:logger:(3, 'Vulnerable', 'Oh really?')
+INFO:logger:---- books ----
+INFO:werkzeug:172.24.0.1 - - [14/Nov/2022 18:32:56] "[35m[1mGET /demo HTTP/1.1[0m" 500 -
+INFO:werkzeug:172.24.0.1 - - [14/Nov/2022 18:32:56] "GET /demo?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.24.0.1 - - [14/Nov/2022 18:32:56] "GET /demo?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.24.0.1 - - [14/Nov/2022 18:32:56] "GET /demo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:172.24.0.1 - - [14/Nov/2022 18:32:56] "[36mGET /demo?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------AULA------------
+
+
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- users  ---- foobartee
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:---- users  ---- foobar
+INFO:logger:---- users  ---- %foobar%
+INFO:logger:('foobartee', 'foobar', 'foo')
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 973-899-014
+INFO:logger:
+ DEMO 
+
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- messages ----
+INFO:logger:(1, 'Vulnerable', 'Hi! I wrote this message using Vulnerable Form.')
+INFO:logger:(2, 'Correct', 'OMG! This form is so correct!!!')
+INFO:logger:(3, 'Vulnerable', 'Oh really?')
+INFO:logger:
+---------------------
+
+
+INFO:werkzeug:172.24.0.1 - - [14/Nov/2022 18:33:15] "GET /demo HTTP/1.1" 200 -
+INFO:logger:
+---------AULA------------
+
+
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- users  ---- foobartee
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:---- users  ---- foobar
+INFO:logger:---- users  ---- %foobar%
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.0.3:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------AULA------------
+
+
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- users  ---- foobartee
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:---- users  ---- foobar
+INFO:logger:---- users  ---- %foobar%
+INFO:logger:('foobartee', 'foobar', 'foo')
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 973-899-014
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------AULA------------
+
+
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- users  ---- foobartee
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:---- users  ---- foobar
+INFO:logger:---- users  ---- %foobar%
+INFO:logger:('foobartee', 'foobar', 'foo')
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 973-899-014
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------AULA------------
+
+
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- users  ---- foobartee
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:---- users  ---- foobar
+INFO:logger:---- users  ---- %foobar%
+INFO:logger:('foobartee', 'foobar', 'foo')
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 973-899-014
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------AULA------------
+
+
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- users  ---- foobartee
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:---- users  ---- foobar
+INFO:logger:---- users  ---- %foobar%
+INFO:logger:('foobartee', 'foobar', 'foo')
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 973-899-014
+INFO:werkzeug: * Detected change in '/app/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------BCRYPT------------
+
+
+INFO:logger:
+---------BCRYPT------------
+
+
+INFO:logger:HASHED 
+INFO:logger:b'$2b$12$waaQl3iMe4kRnqo./tpAiumgVEmuPiGDItWBJtYH88KZpeI1R7HHG'
+INFO:logger:(E)It Does not Match :(
+INFO:logger:(C)It Matches!
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- users  ---- foobartee
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:---- users  ---- foobar
+INFO:logger:---- users  ---- %foobar%
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.0.3:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:logger:
+---------BCRYPT------------
+
+
+INFO:logger:HASHED 
+INFO:logger:b'$2b$12$3V5cbrXyQShlktkPRitSyeuwI1zvHO8kVi69VIHcY1BL3Ct34vEz2'
+INFO:logger:(E)It Does not Match :(
+INFO:logger:(C)It Matches!
+INFO:logger:---- users  ----
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:('batata', 'batata', 'batata')
+INFO:logger:---- users  ---- foobartee
+INFO:logger:('foobartee', 'foobar', 'foo')
+INFO:logger:---- users  ---- foobar
+INFO:logger:---- users  ---- %foobar%
+INFO:logger:('foobartee', 'foobar', 'foo')
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 973-899-014

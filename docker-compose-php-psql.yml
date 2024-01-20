@@ -1,0 +1,30 @@
+# 
+# PSI SS 2023 - Assignment 2
+# The code and resources available in this repository are to be used in the scope of the SS course.
+#
+# Authors: Nuno Antunes <nmsa@dei.uc.pt>
+#
+version: '3'
+
+services:
+  db:
+    build: ./postgresql
+    container_name: db
+    volumes:
+      - ./postgres-data:/var/lib/postgresql/data
+    expose:
+      - "5432"
+    ports:
+      - "5432:5432"
+  web:
+    build: ./php
+    container_name: web
+    volumes:
+      - "./php/htdocs:/var/www/html"
+    expose:
+      - "80"
+    ports:
+      - "8080:80"
+    depends_on:
+      - db
+      

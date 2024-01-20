@@ -1,0 +1,16 @@
+Example app listening on port 3000!
+Error: Connection terminated unexpectedly
+    at Connection.<anonymous> (/usr/src/app/node_modules/pg/lib/client.js:255:9)
+    at Object.onceWrapper (events.js:420:28)
+    at Connection.emit (events.js:314:20)
+    at Socket.<anonymous> (/usr/src/app/node_modules/pg/lib/connection.js:78:10)
+    at Socket.emit (events.js:314:20)
+    at TCP.<anonymous> (net.js:675:12)
+Error: Connection terminated unexpectedly
+    at Connection.<anonymous> (/usr/src/app/node_modules/pg/lib/client.js:255:9)
+    at Object.onceWrapper (events.js:420:28)
+    at Connection.emit (events.js:314:20)
+    at Socket.<anonymous> (/usr/src/app/node_modules/pg/lib/connection.js:78:10)
+    at Socket.emit (events.js:314:20)
+    at TCP.<anonymous> (net.js:675:12)
+hash$2a$10$FVb7VcD9b/BmW0S3eJy0De6c7HF.EOIwmn45.2Pg5JZlA16.dht2q
